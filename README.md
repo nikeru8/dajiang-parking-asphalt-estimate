@@ -4,9 +4,7 @@
 
 [開啟可列印原圖 PDF](https://nikeru8.github.io/dajiang-parking-asphalt-estimate/output/pdf/parking-original-drawings.pdf)
 
-首頁直接列出只鋪設計停車場、兩區一起鋪的估算面積。點「看停車場原圖」可直接切到 39 格車位、對面 172 格車位或全區圖。點「列印原圖」可開啟五頁圖冊。
-
-需要估料或報價時，點「算用料和費用」，選範圍、填柏油壓實厚度即可看備料噸數。單價、現場追加或扣除面積及材料密度可分別展開調整。估算單支援 A4 列印。
+依中壢大江購物中心北側的兩份 CAD 圖面，估算車格、行車通道和出入口的鋪設面積。可勾選施作範圍，調整鋪設厚度、材料密度及損耗，輸入自己的單價後列印估算單。原圖區可切換全區平面配置圖與景觀底圖，也能下載個別 DWG。
 
 | 圖面可估範圍 | 鋪設面積 |
 | --- | ---: |
@@ -35,4 +33,4 @@
 
 ## 授權
 
-本專案的網頁程式碼採用 [MIT 授權](LICENSE)。兩份 DWG 與從圖檔產生的圖面依原權利人的授權使用。網站隨附的 Barlow Semi Condensed 字型採用 [SIL Open Font License 1.1](停車場柏油估算/assets/font-license.txt)。
+本專案的網頁程式碼採用 [MIT 授權](LICENSE)。兩份 DWG 與從圖檔產生的圖面依原權利人的授權使用。網頁內嵌的 Barlow Semi Condensed 字型採用 SIL Open Font License 1.1，授權全文隨網頁附上。
